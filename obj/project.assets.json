@@ -60,10 +60,10 @@
     "C:\\Users\\asger\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.2",
+    "version": "1.0.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\asger\\OneDrive\\Masaüstü\\Files\\Projects\\CustomMediatR\\MediatrLibrary\\MediatRLibrary.csproj",
-      "projectName": "MediatRLibrary",
+      "projectName": "CustomMediatR",
       "projectPath": "C:\\Users\\asger\\OneDrive\\Masaüstü\\Files\\Projects\\CustomMediatR\\MediatrLibrary\\MediatRLibrary.csproj",
       "packagesPath": "C:\\Users\\asger\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\asger\\OneDrive\\Masaüstü\\Files\\Projects\\CustomMediatR\\MediatrLibrary\\obj\\",
