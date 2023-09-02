@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MediatRLibrary</id>
+    <version>1.0.2</version>
+    <title>MediatRLibrary</title>
+    <authors>MediatRLibrary</authors>
+    <icon>download.jpeg</icon>
+    <description>Package Description</description>
+    <repository url="https://github.com/asgerbabayev/MediatRLibrary" />
+    <dependencies>
+      <group targetFramework="net7.0">
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="7.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\bin\Debug\net7.0\MediatRLibrary.dll" target="lib\net7.0\MediatRLibrary.dll" />
+    <file src="C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\download.jpeg" target="\download.jpeg" />
+    <file src="C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\readme.md" target="\readme.md" />
+  </files>
+</package>
