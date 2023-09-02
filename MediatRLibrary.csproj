@@ -10,7 +10,6 @@
 	  <Title>MediatRLibrary</Title>
 	  <PackageIcon>download.jpeg</PackageIcon>
 	  <Version>1.0.1</Version>
-	   <PackageReadmeFile>readme.md</PackageReadmeFile>
 	  <RepositoryUrl>https://github.com/asgerbabayev/MediatRLibrary</RepositoryUrl>
   </PropertyGroup>
 
@@ -19,8 +18,11 @@
   </ItemGroup>
 
   <ItemGroup>
-	  <None Include="docs\readme.md" Pack="true" PackagePath="\"/>
     <None Update="download.jpeg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Update="readme.md">
       <Pack>True</Pack>
       <PackagePath>\</PackagePath>
     </None>

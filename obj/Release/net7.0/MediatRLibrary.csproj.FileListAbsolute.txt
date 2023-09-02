@@ -1,0 +1,13 @@
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\bin\Release\net7.0\MediatRLibrary.deps.json
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\bin\Release\net7.0\MediatRLibrary.dll
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\bin\Release\net7.0\MediatRLibrary.pdb
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\MediatRLibrary.csproj.AssemblyReference.cache
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\MediatRLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\MediatRLibrary.AssemblyInfoInputs.cache
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\MediatRLibrary.AssemblyInfo.cs
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\MediatRLibrary.csproj.CoreCompileInputs.cache
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\MediatRLibrary.sourcelink.json
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\MediatRLibrary.dll
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\refint\MediatRLibrary.dll
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\MediatRLibrary.pdb
+C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\obj\Release\net7.0\ref\MediatRLibrary.dll
