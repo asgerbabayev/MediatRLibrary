@@ -7,6 +7,7 @@
     <authors>MediatRLibrary</authors>
     <icon>download.jpeg</icon>
     <description>Package Description</description>
+    <repository url="https://github.com/asgerbabayev/MediatRLibrary" />
     <dependencies>
       <group targetFramework="net7.0">
         <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="7.0.0" exclude="Build,Analyzers" />
@@ -15,6 +16,6 @@
   </metadata>
   <files>
     <file src="C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\bin\Debug\net7.0\MediatRLibrary.dll" target="lib\net7.0\MediatRLibrary.dll" />
-    <file src="C:\Users\asger\OneDrive\Masaüstü\download.jpeg" target="\download.jpeg" />
+    <file src="C:\Users\asger\OneDrive\Masaüstü\Files\Projects\CustomMediatR\MediatrLibrary\download.jpeg" target="\download.jpeg" />
   </files>
 </package>

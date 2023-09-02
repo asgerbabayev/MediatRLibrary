@@ -10,17 +10,18 @@
 	  <Title>MediatRLibrary</Title>
 	  <PackageIcon>download.jpeg</PackageIcon>
 	  <Version>1.0.0</Version>
+	  <RepositoryUrl>https://github.com/asgerbabayev/MediatRLibrary</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..\..\..\..\download.jpeg">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+    <None Update="download.jpeg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
