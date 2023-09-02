@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nzuyWL1QqecHV4CBgpVUeAAetIPfmicV82QtwX7rOeVhdGkQinDawFIB9anAguIS5+5n/tPtSlZgYL/izLnAkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asger\\OneDrive\\Masaüstü\\Files\\Projects\\CustomMediatR\\MediatrLibrary\\MediatRLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asger\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

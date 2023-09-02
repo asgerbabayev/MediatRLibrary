@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+	  <AssemblyName>MediatRLibrary</AssemblyName>
+	  <RootNamespace>MediatRLibrary</RootNamespace>
+	  <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+	  <Title>MediatRLibrary</Title>
+	  <PackageIcon>download.jpeg</PackageIcon>
+	  <Version>1.0.0</Version>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\download.jpeg">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="7.0.0" />
+  </ItemGroup>
+
+</Project>
