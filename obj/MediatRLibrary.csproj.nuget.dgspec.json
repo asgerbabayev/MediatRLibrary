@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\Users\\asger\\OneDrive\\Masaüstü\\Files\\Projects\\CustomMediatR\\MediatrLibrary\\MediatRLibrary.csproj": {
-      "version": "1.0.3",
+      "version": "1.0.4",
       "restore": {
         "projectUniqueName": "C:\\Users\\asger\\OneDrive\\Masaüstü\\Files\\Projects\\CustomMediatR\\MediatrLibrary\\MediatRLibrary.csproj",
         "projectName": "MediatRLibrary",
@@ -34,6 +34,9 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "default"
         }
       },
       "frameworks": {
@@ -61,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-rc.2.23502.2\\RuntimeIdentifierGraph.json"
         }
       }
     }
